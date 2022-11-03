@@ -7,6 +7,8 @@ A demonstration notebook for the detection of topological defects can be found [
 
 Trained weights for a YOLOv5s model can be found [here](https://drive.google.com/file/d/1n8J3UyySrCJJs2r-JgYiLG0yXeB5yhJg/view?usp=sharing).
 
+Repository with data processing pipeline can be found [here](https://github.com/chowravc/Process_YOLOv5_defects_With_Orientation).
+
 1. [SETT-2: Training YOLOv2 using simulated schlieren textures](https://github.com/chowravc/SETT2)
 2. [UNet model to detect topological defects in SmC films](https://github.com/chowravc/UNetDefectDetector)
 3. [Storage for UNet model weights](https://github.com/chowravc/DefectUNetWeightsStorage)
