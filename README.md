@@ -20,5 +20,6 @@ Repository with data processing pipeline can be found [here](https://github.com/
 9. [Cross-correlation of topological defect textures](https://github.com/chowravc/Defect_Cross_Correlation)
 10. [Label topological defects in YOLOv5 format](https://github.com/chowravc/label_defects_YOLO)
 11. [Binary classifier for defect sign classification](https://github.com/chowravc/Binary_Classifier)
-12. [Simulation of diffusing and interacting particles](https://github.com/chowravc/Coulomb_Simulation)
-13. [Precise defect tracking for diffusion constant calculations](https://github.com/chowravc/Defect_Cross_Correlation)
+12. [Simulation of diffusing and annihilating particles](https://github.com/chowravc/DiffusingParticles)
+13. [Simulation of diffusing and interacting particles](https://github.com/chowravc/Coulomb_Simulation)
+14. [Precise defect tracking for diffusion constant calculations](https://github.com/chowravc/Defect_Cross_Correlation)
