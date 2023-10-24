@@ -1,0 +1,36 @@
+[submodule "SETT2"]
+	path = SETT2
+	url = https://github.com/chowravc/SETT2
+[submodule "UNetDefectDetector"]
+	path = UNetDefectDetector
+	url = https://github.com/chowravc/UNetDefectDetector
+[submodule "YOLOv5mAP_Defects"]
+	path = YOLOv5mAP_Defects
+	url = https://github.com/chowravc/YOLOv5mAP_Defects
+[submodule "Split_Train_Test_YOLOv5"]
+	path = Split_Train_Test_YOLOv5
+	url = https://github.com/chowravc/Split_Train_Test_YOLOv5
+[submodule "YOLOv5DefectDetection"]
+	path = YOLOv5DefectDetection
+	url = https://github.com/chowravc/YOLOv5DefectDetection
+[submodule "XY_Simulation"]
+	path = XY_Simulation
+	url = https://github.com/chowravc/XY_Simulation
+[submodule "XY_Simulation_Plotting"]
+	path = XY_Simulation_Plotting
+	url = https://github.com/chowravc/XY_Simulation_Plotting
+[submodule "Defect_Cross_Correlation"]
+	path = Defect_Cross_Correlation
+	url = https://github.com/chowravc/Defect_Cross_Correlation
+[submodule "label_defects_YOLO"]
+	path = label_defects_YOLO
+	url = https://github.com/chowravc/label_defects_YOLO
+[submodule "Binary_Classifier"]
+	path = Binary_Classifier
+	url = https://github.com/chowravc/Binary_Classifier
+[submodule "DiffusingParticles"]
+	path = DiffusingParticles
+	url = https://github.com/chowravc/DiffusingParticles
+[submodule "Coulomb_Simulation"]
+	path = Coulomb_Simulation
+	url = https://github.com/chowravc/Coulomb_Simulation
